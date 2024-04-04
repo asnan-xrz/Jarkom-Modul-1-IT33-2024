@@ -24,15 +24,18 @@ Berikut adalah Laporan Resmi Praktikum Komunikasi Data & Jaringan Komputer Modul
 **A. PEMBAHASAN**
 1. Di sini saya langsung mencoba follow pada salah satu TCP yang sedikit mencurigakan (mendekati clue).
 
+<img width="1280" alt="1-creds" src="https://github.com/asnan-xrz/Jarkom-Modul-1-IT33-2024/assets/133721836/7169cad2-8deb-4b4d-bb75-860458b08034">
 
   
-2. Berdasarkan gambar tersebut dapat dilihat bahwa terdapat banyak informasi terkait login akses. Setelah memahami informasi tersebut, dapat disimpulkan bahwa USER:h3ngk3rTzy dan PASS:S!l3ncE
+2. Berdasarkan gambar di bawah ini dapat dilihat bahwa terdapat banyak informasi terkait login akses. Setelah memahami informasi tersebut, dapat disimpulkan bahwa `USER:h3ngk3rTzy` dan `PASS:S!l3ncE`
 
+<img width="1280" alt="2-creds" src="https://github.com/asnan-xrz/Jarkom-Modul-1-IT33-2024/assets/133721836/e469882c-d1b4-4f38-afe9-b2bf5c8fc04c">
 
 
 **B. HASIL**
-Sehingga didapatkan Flagnya adalah JARKOM2024{s3curE_uR_FtP_I68CPzxjl6FeRrt}
+1. Sehingga didapatkan Flagnya adalah JARKOM2024{s3curE_uR_FtP_I68CPzxjl6FeRrt}
 
+<img width="451" alt="3-creds" src="https://github.com/asnan-xrz/Jarkom-Modul-1-IT33-2024/assets/133721836/366ba99e-7391-4d3c-ada5-f589b7ae69c8">
 
 
 ---
@@ -49,17 +52,18 @@ Sehingga didapatkan Flagnya adalah JARKOM2024{s3curE_uR_FtP_I68CPzxjl6FeRrt}
 4. `| grep "PASS"` akan mencari setiap baris yang mengandung kata "PASS" dalam output yang dihasilkan oleh perintah strings.
 5. Sehingga didapatkan output sebagai berikut
 
+<img width="1019" alt="1-ATM" src="https://github.com/asnan-xrz/Jarkom-Modul-1-IT33-2024/assets/133721836/0a4713af-8615-49c8-9778-b019463664a6">
 
 
-6. Hal yang ganjil dari outputnya terletak pada bagian akhirnya. Terdapat pola penulisan Password yang sangat berbeda dari yang lain yaitu m4y_th3_Kn!fe_ch1p_&_sh4tter
+6. Hal yang ganjil dari outputnya terletak pada bagian akhirnya. Terdapat pola penulisan Password yang sangat berbeda dari yang lain yaitu `m4y_th3_Kn!fe_ch1p_&_sh4tter`
 
-
+<img width="439" alt="2-ATM" src="https://github.com/asnan-xrz/Jarkom-Modul-1-IT33-2024/assets/133721836/e735882d-0cbf-4bf7-8fc2-68beb1c55275">
 
 
 **B. HASIL**
-Sehingga didapatkan Flagnya adalah JARKOM2024{Brut3f0rce_FtP_9h8lPbxHQRkelAq}
+1. Sehingga didapatkan Flagnya adalah JARKOM2024{Brut3f0rce_FtP_9h8lPbxHQRkelAq}
 
-
+<img width="785" alt="3-ATM" src="https://github.com/asnan-xrz/Jarkom-Modul-1-IT33-2024/assets/133721836/d6389352-f32d-4326-957e-45c46c9e4998">
 
 
 ---
