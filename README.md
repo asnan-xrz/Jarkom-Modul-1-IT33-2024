@@ -8,7 +8,7 @@ Berikut adalah Laporan Resmi Praktikum Komunikasi Data & Jaringan Komputer Modul
 
 ---
 
-## **TABLE OF CONTENT**
+## **Daftar Isi**
 
 - [creds](#soal1)
 - [ATM or ATP or FTP ? 🤔](#soal2)
